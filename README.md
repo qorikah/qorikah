@@ -1,0 +1,2 @@
+# qorikah
+bahasa c++
